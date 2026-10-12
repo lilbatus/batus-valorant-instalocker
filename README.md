@@ -1,7 +1,4 @@
-# valorant patched whole val-client python library. THIS TOOL WONT WORK ANYMORE.
-# valorant patched whole val-client python library. THIS TOOL WONT WORK ANYMORE.
-# valorant patched whole val-client python library. THIS TOOL WONT WORK ANYMORE.
-# valorant patched whole val-client python library. THIS TOOL WONT WORK ANYMORE.
+# i think valorant patched it and this tool wont work anymore, will rework later.
 
 
 
